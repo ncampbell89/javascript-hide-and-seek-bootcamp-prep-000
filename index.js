@@ -19,8 +19,8 @@ function deepestChild() {
   var newArr = []
 
   while(gnode) {
-    if (gnode.children) {
-      gnode = children.length
+    if (false) {
+    //  gnode = children.length
     } else {
       newArr
     }
