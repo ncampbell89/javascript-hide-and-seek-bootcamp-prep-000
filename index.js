@@ -16,6 +16,7 @@ function increaseRankBy(n) {
 
 function deepestChild() {
   let gnode = document.querySelector('div#grand-node div div div div')
+  return gnode
   // var newArr = []
   //
   // while(gnode) {
